@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Frandi",
+    "classifications": [ "Common", "Console", "C#9" ],
+    "identity": "Frandi.Awesome2021",
+    "name": "Console Application: Awesome 2021",
+    "shortName": "awesome2021",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "Awesome2021",
+    "preferNameDirectory": true
+  }
